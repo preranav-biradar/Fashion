@@ -51,7 +51,7 @@ Check the live site here:
    ```
    ----
 
-##Author
+Author
 
 **Prerana Biradar**
    
