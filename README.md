@@ -52,7 +52,8 @@ Check the live site here:
    ----
 
 ##Author
-Prerana Biradar
+
+**Prerana Biradar**
    
 
 
